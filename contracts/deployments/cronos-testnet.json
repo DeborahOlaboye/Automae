@@ -1,0 +1,16 @@
+{
+  "network": "cronos-testnet",
+  "chainId": 338,
+  "timestamp": "2026-01-10T00:12:59Z",
+  "deployer": "0x2c8D82a53f11B0E9B527a111B2f53C5D5E809806",
+  "contracts": {
+    "AssetRegistry": "0x5e5E90EaC14983d0BaB3b869BA48c7Fe8B42B076",
+    "DividendDistribution": "0xd4870F305C44226A4F235161E5bcBa66e2C65545",
+    "AssetTreasury": "0x07E081136fD1990F1ddECF6d3F44cDACbAf8274f"
+  },
+  "explorerUrls": {
+    "AssetRegistry": "https://explorer.cronos.org/testnet/address/0x5e5E90EaC14983d0BaB3b869BA48c7Fe8B42B076",
+    "DividendDistribution": "https://explorer.cronos.org/testnet/address/0xd4870F305C44226A4F235161E5bcBa66e2C65545",
+    "AssetTreasury": "https://explorer.cronos.org/testnet/address/0x07E081136fD1990F1ddECF6d3F44cDACbAf8274f"
+  }
+}
